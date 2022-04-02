@@ -12,17 +12,19 @@ In India, where I am from, the problem is even worse. Close to 14 per cent of In
 
 The thought of being able to save even a fraction of this number is powerful enough to get me working this hard for it.
 
+<img src="https://c.tenor.com/3yIu9sERkKMAAAAC/spongebob-depression.gif" style="width:'80px'">
+
 ## What it does
 Noor, TALKs because that's all it takes. She provides a comfortable environment to the user where they can share their thoughts very privately, and let that feelings out once and for all.
 
 ## How we built it
-I built this app in certain steps:
+I built this app in these steps:
 1. Converting all the convolutional intents into a Machine Learning Model - Pytorch.
 2. Building a framework where users can provide input and the model can output the best possible response that makes the most sense. Here, the threshold is set to 90% accuracy.
 3. Building an elegant GUI.
 
 ## Challenges we ran into
-Building Chatbots from scratch is extremely difficult. However, 36 hours were divided into sections where I could manage building a decent hack out of everything I got.
+Building Chatbots from scratch is extremely difficult. However, 36 hours were divided into sections where I could manage building a decent hack out of everything I got. Work load when working alone was also a stress factor.
 
 ## Accomplishments that we're proud of
 I built my own Chatbot for the first time!!! YAYYYYY! Also, this was my first time making an entire hackathon project using Python and its frameworks only. Extremely new experience. I am proud of myself for pushing through tough frustrating times.
