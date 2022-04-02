@@ -8,11 +8,11 @@ Studying at university, I have seen my friends suffer from depression and anxiet
 Statistically, an estimated 792 million individuals worldwide suffer from mental health diseases and concerns.
 That's roughly one out of every ten persons on the planet.
 
+<img src="https://c.tenor.com/3yIu9sERkKMAAAAC/spongebob-depression.gif" style="width:'80px'">
+
 In India, where I am from, the problem is even worse. Close to 14 per cent of India's population required active mental health interventions. Every year, about 2,00,000 Indians take their lives. The statistics are even higher if one starts to include the number of attempts to suicide.
 
 The thought of being able to save even a fraction of this number is powerful enough to get me working this hard for it.
-
-<img src="https://c.tenor.com/3yIu9sERkKMAAAAC/spongebob-depression.gif" style="width:'80px'">
 
 ## What it does
 Noor, TALKs because that's all it takes. She provides a comfortable environment to the user where they can share their thoughts very privately, and let that feelings out once and for all.
